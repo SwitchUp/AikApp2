@@ -6,10 +6,10 @@
         id = "build.phonegap.com/apps/500589"
         version = "1.0.0">
 
-    <name>Hello World</name>
+    <name>AikApp prova</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Prova AIK.
     </description>
 
     <author href="http://www.switchup.it" email="support@delinea.it">
